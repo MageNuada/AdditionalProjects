@@ -1,0 +1,6 @@
+C:\Users\Nuada\Documents\Visual Studio 2015\Projects\AdditionalProjects\MindboxTestProject\bin\Debug\MindboxTestProject.exe
+C:\Users\Nuada\Documents\Visual Studio 2015\Projects\AdditionalProjects\MindboxTestProject\bin\Debug\MindboxTestProject.pdb
+C:\Users\Nuada\Documents\Visual Studio 2015\Projects\AdditionalProjects\MindboxTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Nuada\Documents\Visual Studio 2015\Projects\AdditionalProjects\MindboxTestProject\obj\Debug\MindboxTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Nuada\Documents\Visual Studio 2015\Projects\AdditionalProjects\MindboxTestProject\obj\Debug\MindboxTestProject.exe
+C:\Users\Nuada\Documents\Visual Studio 2015\Projects\AdditionalProjects\MindboxTestProject\obj\Debug\MindboxTestProject.pdb
